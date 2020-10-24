@@ -1,58 +1,78 @@
-# Software Engineer - Learning Plan
-
+  
 ## October
+- [x] **Volunteer Project**
+	- [x] python data extraction
+	- [x] java uploader
+		- [x] Maven
+		- [x] Spring
+- [x] **Practice:** Tiny Python Projects book
 - [ ] **Theory:** [Codebasics - Data Structures & Algorithms in Python](https://www.youtube.com/watch?v=_t2GVaQasRY&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12) playlist
-- [ ] **Practice:** Tiny Python Projects book
 - [ ] **Practice:** Thredup project
-	- [ ] Inputs
+	- [ ] reformat code
 	- [ ] import os to save file to user's local drive
 	- [ ] pip install
-	- [ ] if ____main____ = ?
+	- [x] Inputs
+		- [x] url
+		- [x] number of pages
+		- [x] file name
+	- [ ] sys.argvs (flags)
+		- [ ] worst fabrics (filter 1)
+		- [ ] second worst fabrics (filter 2)
 	- [ ] ~~use classes?~~
+- [ ] stackoverflow account
+- [x] Install Docker
+	- [x] Docker Compose
+	- [ ] create Aio app
+- [x] upload to Github
+	- [x] Learning Plan
+	- [x] Data Structures exercises
+	- [x] Tiny Python projects - my solutions
+
+
+
+# Future
+## End of year
+
+- [ ]  Algo-expert
+- [ ]  Open source contribution in a larger project
+- [ ]  code-wars
+- [ ] Lleetcode/HackerRank
+- [ ] github careers page
+- [ ] stackoverflow careers page
+- [ ]  copy links to "[Migrating to Linux](https://www.notion.so/taniyasingh/Migrating-to-Linux-e0a69c2ae2334d3597157b2652f368bf)" page
+- [ ]  [Hack Reactor](https://www.hackreactor.com/student-projects) student projects + other student projects
+- [ ]  program to manipulate MIDI files with python to produce a new sound
+- [ ]  take a picture of a bomber jacket in store, thredup will find an alternative on it's website. Maybe poshmark as well?
+- [ ]  node.js
+- [ ]  Thredup project
 	- [ ] use cloud database for data (ex: AWS)
 	- [ ] authentication service
 	- [ ] [Introducing TensorFlow Recommenders](https://blog.tensorflow.org/2020/09/introducing-tensorflow-recommenders.html?m=1)
 	- [ ] argparse csv files/text files for filtering out "bad fabrics"
 	- [ ] use stdin and sdout for initial input values
-- [x] Install Docker
-	- [x] Docker Compose
-	- [ ] create Aio app
+	- [ ] parser.error (Tiny Python Projects: 9.2)
+	- [ ] Flask to create a clickable image gallery
+	- [ ] create tests
+	- [ ] logs
+	- [ ] switch from bs4 to scrappy
+- [ ] Concepts
+	- [ ] encapsulation
+	- [ ] abstraction
+	- [ ] inheritance
+	- [ ] polymorphism
 - [ ] Youtube videos:
 	- [x] [The One Plan Guaranteed To Land A Software Developer Job](https://www.youtube.com/watch?v=gzljmbiABFU)
 	- [ ] [Backend Web Developer Guide 2020](https://www.youtube.com/watch?v=gqdc4jLjGKQ&t=1s)
 	- [x] [All You Need To Know About Backend Engineering](https://www.youtube.com/watch?v=cLK5vqPv6JQ)
 	- [ ] [Building a Facebook clone app in 10 mins with py4web (from scratch)](https://www.youtube.com/watch?v=hcYUgNWvPtw)
 	- [ ] [Social Network with Python](https://www.youtube.com/results?search_query=social+network+python)
-- [ ] Concepts
-	- [ ] encapsulation
-	- [ ] abstraction
-	- [ ] inheritance
-	- [ ] polymorphism
-
-
-
-
-
-# Plan
-
-
-## Short term - end of 2020
+- [ ] References
+	- [ ] [Teach Yourself Computer Science](https://teachyourselfcs.com/#programming) - 2-3 years
+	- [ ] [r/learn programming (32 years old --> developer)](https://www.reddit.com/r/learnprogramming/comments/34r807/im_32_years_old_and_just_started_my_first/)
+	- [ ] [How to go from beginner -> intermediate. Don't repeat my mistakes](https://www.reddit.com/r/learnjavascript/comments/gne863/how_to_go_from_beginner_intermediate_dont_repeat/)
 - [x]  Resume
 - [x]  Cover letters
-- [ ]  python library for thredup and poshmark?
 - [x]  Markup guidelines for github + jupyter for asthetics
-- [ ]  CS or data structures class
-
-## Long term - 2020 and beyond
-- [ ]  add future plan from paper notes (3 months looking forward)
-- [ ]  copy links to "[Migrating to Linux](https://www.notion.so/taniyasingh/Migrating-to-Linux-e0a69c2ae2334d3597157b2652f368bf)" page
-- [ ]  [Hack Reactor](https://www.hackreactor.com/student-projects) student projects + other student projects
-- [ ]  program to manipulate MIDI files with python to produce a new sound
-- [ ]  take a picture of a bomber jacket in store, thredup will find an alternative on it's website. Maybe poshmark as well?
-- [ ]  node.js
-- [ ] [Teach Yourself Computer Science](https://teachyourselfcs.com/#programming) - 2-3 years
-- [ ] [r/learn programming (32 years old --> developer)](https://www.reddit.com/r/learnprogramming/comments/34r807/im_32_years_old_and_just_started_my_first/)
-- [ ] [How to go from beginner -> intermediate. Don't repeat my mistakes](https://www.reddit.com/r/learnjavascript/comments/gne863/how_to_go_from_beginner_intermediate_dont_repeat/)
 
 ### Projects
 - [ ]  Archaeopteryx - dance AI software but for a different genre?
@@ -74,32 +94,32 @@
 ## September
 
 ### Week 4: HackerRank Conference
-- [Codebasics - Data Structures & Algorithms in Python](https://www.youtube.com/watch?v=_t2GVaQasRY&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12) get started on playlist
+- [x] [Codebasics - Data Structures & Algorithms in Python](https://www.youtube.com/watch?v=_t2GVaQasRY&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12) get started on playlist
 ### Week 3: ODSC
-- Learn what these do
-	- GCP
-	- Azure
-	- AWS
-	- Spark
-- Python gaps
-	- classes (learning through Linked Lists practice)
-- ODSC Conference *Thursday + Friday*
-	- resume for career fair - Saturday
+- [x] Learn what these do
+	- [x] GCP
+	- [x] Azure
+	- [x] AWS
+	- [x] Spark
+- [x] Python gaps
+	- [x] classes (learning through Linked Lists practice)
+- [x] ODSC Conference *Thursday + Friday*
+	- [x] resume for career fair - Saturday
 
 
 ### Week 2: SQL + job applications
-- apply to jobs + internships
-- SQL refresher - [Data36](https://data36.com/learn-sql-for-data-analysis-from-scratch/)
-- Leetcode practice - Python
-- ODSC scholarship application
-- ODSC registration for all events
+- [x] apply to jobs + internships
+- [x] SQL refresher - [Data36](https://data36.com/learn-sql-for-data-analysis-from-scratch/)
+- [x] Leetcode practice - Python
+- [x] ODSC scholarship application
+- [x] ODSC registration for all events
 
 
 ### Week 1: Thredup database
-- organize all files according to [How to Organize Your Data Science Project](https://towardsdatascience.com/how-to-organize-your-data-science-project-dd6599cf000a)
-- basic webscrape COMPLETED!
-- scrape ~1000 items
-- Clean up all code
+- [x] organize all files according to [How to Organize Your Data Science Project](https://towardsdatascience.com/how-to-organize-your-data-science-project-dd6599cf000a)
+- [x] basic webscrape COMPLETED!
+- [x] scrape ~1000 items
+- [x] Clean up all code
 
 
 ## August
