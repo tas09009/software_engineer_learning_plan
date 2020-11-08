@@ -1,41 +1,30 @@
   
-## October
-- [x] **Volunteer Project**
-	- [x] python data extraction
-	- [x] java uploader
-		- [x] Maven
-		- [x] Spring
-- [x] **Practice:** Tiny Python Projects book
+## November
+### Intelligent Document Classifier
+- [ ] fix CORS issue
+
+### Python
 - [ ] **Theory:** [Codebasics - Data Structures & Algorithms in Python](https://www.youtube.com/watch?v=_t2GVaQasRY&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12) playlist
+- [ ] **Theory:** [Data Structures Book](https://runestone.academy/runestone/books/published/pythonds/index.html)
+- [ ] **Practice:** Tiny Python Projects book: 2nd half
 - [ ] **Practice:** Thredup project
 	- [ ] reformat code
+	- [ ] redo projects kanban board - github
 	- [ ] import os to save file to user's local drive
 	- [ ] pip install
-	- [x] Inputs
-		- [x] url
-		- [x] number of pages
-		- [x] file name
-	- [ ] sys.argvs (flags)
+	- [ ] sys.argvs (flags)?
 		- [ ] worst fabrics (filter 1)
 		- [ ] second worst fabrics (filter 2)
-	- [ ] ~~use classes?~~
-- [ ] stackoverflow account
-- [x] Install Docker
-	- [x] Docker Compose
-	- [ ] create Aio app
-- [x] upload to Github
-	- [x] Learning Plan
-	- [x] Data Structures exercises
-	- [x] Tiny Python projects - my solutions
 
-
+### General
+- [ ] stackoverflow - start contributing
 
 # Future
 ## End of year
 
-- [ ]  Algo-expert
-- [ ]  Open source contribution in a larger project
-- [ ]  code-wars
+- [ ] Algo-expert
+- [ ] Open source contribution in a larger project
+- [ ] code-wars
 - [ ] Lleetcode/HackerRank
 - [ ] github careers page
 - [ ] stackoverflow careers page
@@ -73,6 +62,41 @@
 - [x]  Resume
 - [x]  Cover letters
 - [x]  Markup guidelines for github + jupyter for asthetics
+- [ ]  Test Automation/BDD tools
+- [ ] Cucumber
+- [ ] SpecFlow
+- [ ] Selenium
+
+CI Tools
+- [ ] Jenkins
+- [ ] TeamCity
+
+Virtualization Technologies
+- [ ] Docker
+
+Languages
+- [ ] Java
+- [ ] Scala
+- [ ] Go
+- [ ] PhP
+
+API Testing
+REST API
+AWS
+PHP monolith on bare metal to running [microservices on Kubernetes](https://architecht.io/box-co-founder-on-moving-to-microservices-and-the-promise-of-kubernetes-a49f01b1c0c0) 
+[Box.com Kubernetes case study](https://kubernetes.io/case-studies/box/)
+Computer Science Fundamentals
+
+related systems software projects is big plus e.g: Distributed systems, Operating systems, Linux Kernel, Database internals, Hypervisors, Containers, Compiler Optimization, etc.
+
+- [ ] Terms to know:
+	- [ ] Open Container Initiative - 
+	- [ ] SDLC (software development life cycle)
+	- [ ] distributed systems, concurrency control, data replication, file systems, or SQL processing (CockroachDB job description)
+	- [ ] Data pipelines (Apache Spark and Kafka )
+
+contribute to open source
+Practical programming knowledge and experience with development for browser (JavaScript, jQuery, Angular, or Vue), server (PHP, ASP, Python, or Node), and database (SQL, SQLite, or MongoDB).
 
 ### Projects
 - [ ]  Archaeopteryx - dance AI software but for a different genre?
@@ -91,35 +115,55 @@
 	- [ ]  Good reads has an API
 
 # Done
+## October
+- **Volunteer Project**
+	- python data extraction
+	- java uploader
+		- Maven
+		- Spring
+		- Angular (run)
+- **Practice:** Tiny Python Projects book: 1st half
+- **Practice:** Thredup project
+	- Inputs
+		- url
+		- number of pages
+		- file name
+	-  ~~use classes?~~
+- Install Docker
+	- Docker Compose
+- upload to Github
+	- Learning Plan
+	- Data Structures exercises
+	- Tiny Python projects - my solutions
 ## September
 
 ### Week 4: HackerRank Conference
-- [x] [Codebasics - Data Structures & Algorithms in Python](https://www.youtube.com/watch?v=_t2GVaQasRY&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12) get started on playlist
+- [Codebasics - Data Structures & Algorithms in Python](https://www.youtube.com/watch?v=_t2GVaQasRY&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12) get started on playlist
 ### Week 3: ODSC
-- [x] Learn what these do
-	- [x] GCP
-	- [x] Azure
-	- [x] AWS
-	- [x] Spark
-- [x] Python gaps
-	- [x] classes (learning through Linked Lists practice)
-- [x] ODSC Conference *Thursday + Friday*
-	- [x] resume for career fair - Saturday
+- Learn what these do
+	- GCP
+	- Azure
+	- AWS
+	- Spark
+- Python gaps
+	- classes (learning through Linked Lists practice)
+- ODSC Conference *Thursday + Friday*
+	- resume for career fair - Saturday
 
 
 ### Week 2: SQL + job applications
-- [x] apply to jobs + internships
-- [x] SQL refresher - [Data36](https://data36.com/learn-sql-for-data-analysis-from-scratch/)
-- [x] Leetcode practice - Python
-- [x] ODSC scholarship application
-- [x] ODSC registration for all events
+- apply to jobs + internships
+- SQL refresher - [Data36](https://data36.com/learn-sql-for-data-analysis-from-scratch/)
+- Leetcode practice - Python
+- ODSC scholarship application
+- ODSC registration for all events
 
 
 ### Week 1: Thredup database
-- [x] organize all files according to [How to Organize Your Data Science Project](https://towardsdatascience.com/how-to-organize-your-data-science-project-dd6599cf000a)
-- [x] basic webscrape COMPLETED!
-- [x] scrape ~1000 items
-- [x] Clean up all code
+- organize all files according to [How to Organize Your Data Science Project](https://towardsdatascience.com/how-to-organize-your-data-science-project-dd6599cf000a)
+- basic webscrape COMPLETED!
+- scrape ~1000 items
+- Clean up all code
 
 
 ## August
@@ -346,40 +390,3 @@
 - Data 36 - SQL practice
 - Codewars - python + SQL practice
 - SQL - interview questions
-
-
-# Notes
-
-Original Plan in Google Drive:
-
-[Data Science - Ultra learning Project](https://docs.google.com/document/d/1joOLIAVvxcAfqqQMLa_N9y3r9WUPnEOsLg2PvCNYkEI/edit?usp=drivesdk)
-
-### DS/ML Udemy course - notes:
-
-![Data%20Science%20-%20Learning%20Project%20d0535b010234413cbc293ef26d505f34/Untitled.png](Data%20Science%20-%20Learning%20Project%20d0535b010234413cbc293ef26d505f34/Untitled.png)
-
-![Data%20Science%20-%20Learning%20Project%20d0535b010234413cbc293ef26d505f34/Untitled%201.png](Data%20Science%20-%20Learning%20Project%20d0535b010234413cbc293ef26d505f34/Untitled%201.png)
-
-![Data%20Science%20-%20Learning%20Project%20d0535b010234413cbc293ef26d505f34/Untitled%202.png](Data%20Science%20-%20Learning%20Project%20d0535b010234413cbc293ef26d505f34/Untitled%202.png)
-
-![Data%20Science%20-%20Learning%20Project%20d0535b010234413cbc293ef26d505f34/Untitled%203.png](Data%20Science%20-%20Learning%20Project%20d0535b010234413cbc293ef26d505f34/Untitled%203.png)
-
-# Visualize feature importance
-
-*Feature importance seems to be crucial in seeing what type of data is important:*
-
-feature_df = pd.DataFrame(feature_dict, index=[0])
-feature_df.T.plot.bar(title='Feature Importance', legend=False);
-
-*heart disease data:*
-
-![Data%20Science%20-%20Learning%20Project%20d0535b010234413cbc293ef26d505f34/Untitled%204.png](Data%20Science%20-%20Learning%20Project%20d0535b010234413cbc293ef26d505f34/Untitled%204.png)
-
-### Dog vision - Colab project summary of steps:
-
-- 10,000 images in "Test" directory
-- referred them as file names "/drive"
-- filenames → tensors
-- tensor slices function: tensors → tensor dataset
-- create databatch by preprocessing images
-- turn it all into batches
