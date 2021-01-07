@@ -1,33 +1,19 @@
   ## December
   ### Open University
-- [x] set up local database
-	- [x] install mySQL
-	- [x] FInd a UML tool to draw database schema
-		- [x] Draw.io
-	- [x] draw database schema
-		- [x] *completed by Faye*
-	- [x] upload script and create a username to access data
-- [x] create Subcategory table
-- [x] set up Postman
-	- [x] add data to books table
-- [x] test out Bing's code
-- [x] figure out contribution in github (git theory)
-- [x] create User table + all it's properties
-
-
-### Python - Data Structures
-- [ ] **Theory:** [Data Structures Book](https://runestone.academy/runestone/books/published/pythonds/index.html)
-- [ ] Notes/Anki
-	- [x] Overview of concepts, key words
-	- [ ] Fill in Python gaps (classes, objects, opening files, etc.)
-	- [ ] add examples of code
-- [ ] Python Algorithms book
-- [ ] Corey shafer's python playlist - youtube
-- [ ] interview cake - reading guidelines
-- [ ] algo expert
-- [ ] Java for Python programmers - Runestone
-- [ ] Thredup: add exceptions + warnings. Add classes?
-- [ ] Portfolio + Resume from Notion --> Website. Will website only be career oriented?
+- set up mySQL locally
+	- upload script and create a username to access data
+- create Subcategory table
+- set up Postman
+	- add data to books table
+- test out Bing's code
+- figure out contribution in github (git theory)
+- create User table + all it's properties
+- Work with (front end) for User-history API
+- pull from deploy and test
+- simplify database with Category <--> Book relationship (Many to Many)
+- Create relationship User <--> User history (Many to Many)
+- generate Mock data using a Python webscrapper
+- apply to recurse center
 
 # Done
 ## November 
@@ -323,7 +309,23 @@
 
 
 # Future
-## End of year
+
+
+### Python - Data Structures
+- [ ] **Theory:** [Data Structures Book](https://runestone.academy/runestone/books/published/pythonds/index.html)
+- [ ] Notes/Anki
+	- [x] Overview of concepts, key words
+	- [ ] Fill in Python gaps (classes, objects, opening files, etc.)
+	- [ ] add examples of code
+- [ ] Python Algorithms book
+- [ ] Corey shafer's python playlist - youtube
+- [ ] interview cake - reading guidelines
+- [ ] algo expert
+- [ ] Java for Python programmers - Runestone
+- [ ] Thredup: add exceptions + warnings. Add classes?
+- [ ] Portfolio + Resume from Notion --> Website. Will website only be career oriented?
+
+
 - [ ] stackoverflow - start contributing
 - [ ] webscrape for used items:
 	- [ ] rowing machine
@@ -429,3 +431,4 @@ Practical programming knowledge and experience with development for browser (Jav
 - [ ]  book recommendation
 	- [ ]  Source: [Recommender Systems: From Filter Bubble to SerendipityTags](Recommender Systems: From Filter Bubble to Serendipity) Need to read this to understand how to implement Dewey decimal
 	- [ ]  Good reads has an API
+
