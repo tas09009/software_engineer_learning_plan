@@ -1,5 +1,27 @@
+### Open University
+- [ ] move nested books from `/category` to `/category?expand=book`
+- [ ] remove nested books from `/category` entirely
+- [ ] how to batch upload on POST
+
+### Web development - general
+- [ ] web development crash course
+	- [ ] go through the odin project fundamentals
+	- [ ] focus on: backend 
+	- [ ] how does front + back end combine
+- [ ] update resume with FreeOpenUniversity work
+- [ ] Go through 2019 curriculum and condense to figure out what worked and what didn't
+- [ ] why doesn't from test import testEqual work? (Runestone book uses this)
+- [x] rewatch "The Come Up's" youtube video on getting software engineering job
+
+### Data Structures
+- [x] Chapter 5
+- [ ] Chapter 6
+- [ ] interview cake - readings for overall concepts
+- [ ] algo expert
+
+# Done
   ## December
-  ### Open University
+  ### CIS website
 - set up mySQL locally
 	- upload script and create a username to access data
 - create Subcategory table
@@ -13,9 +35,6 @@
 - simplify database with Category <--> Book relationship (Many to Many)
 - Create relationship User <--> User history (Many to Many)
 - generate Mock data using a Python webscrapper
-- apply to recurse center
-
-# Done
 ## November 
 ### Intelligent Document Classifier
 - Deploy app on server
@@ -310,48 +329,15 @@
 
 # Future
 
-
-### Python - Data Structures
-- [ ] **Theory:** [Data Structures Book](https://runestone.academy/runestone/books/published/pythonds/index.html)
-- [ ] Notes/Anki
-	- [x] Overview of concepts, key words
-	- [ ] Fill in Python gaps (classes, objects, opening files, etc.)
-	- [ ] add examples of code
-- [ ] Python Algorithms book
-- [ ] Corey shafer's python playlist - youtube
-- [ ] interview cake - reading guidelines
-- [ ] algo expert
-- [ ] Java for Python programmers - Runestone
-- [ ] Thredup: add exceptions + warnings. Add classes?
-- [ ] Portfolio + Resume from Notion --> Website. Will website only be career oriented?
-
-
-- [ ] stackoverflow - start contributing
-- [ ] webscrape for used items:
-	- [ ] rowing machine
-	- [ ] travel yoga mat
-	- [ ] camping equipment
-- [ ] **Practice:** Tiny Python Projects book: 2nd half
-- [ ] **Practice:** Thredup project
-	- [ ] reformat code
-	- [ ] redo projects kanban board - github
-	- [ ] import os to save file to user's local drive
-	- [ ] pip install
-	- [ ] sys.argvs (flags)?
-		- [ ] worst fabrics (filter 1)
-		- [ ] second worst fabrics (filter 2)
-- [ ] Algo-expert
-- [ ] Open source contribution in a larger project
-- [ ] code-wars
-- [ ] Lleetcode/HackerRank
-- [ ] github careers page
-- [ ] stackoverflow careers page
-- [ ]  copy links to "[Migrating to Linux](https://www.notion.so/taniyasingh/Migrating-to-Linux-e0a69c2ae2334d3597157b2652f368bf)" page
-- [ ]  [Hack Reactor](https://www.hackreactor.com/student-projects) student projects + other student projects
-- [ ]  program to manipulate MIDI files with python to produce a new sound
-- [ ]  take a picture of a bomber jacket in store, thredup will find an alternative on it's website. Maybe poshmark as well?
+#### Thredup project
+- [ ] reformat code
+- [ ] redo projects kanban board - github
+- [ ] import os to save file to user's local drive
+- [ ] pip install
+- [ ] sys.argvs (flags)?
+	- [ ] worst fabrics (filter 1)
+	- [ ] second worst fabrics (filter 2)
 - [ ]  node.js
-- [ ]  Thredup project
 	- [ ] use cloud database for data (ex: AWS)
 	- [ ] authentication service
 	- [ ] [Introducing TensorFlow Recommenders](https://blog.tensorflow.org/2020/09/introducing-tensorflow-recommenders.html?m=1)
@@ -362,73 +348,9 @@
 	- [ ] create tests
 	- [ ] logs
 	- [ ] switch from bs4 to scrappy
-- [ ] Concepts
-	- [ ] encapsulation
-	- [ ] abstraction
-	- [ ] inheritance
-	- [ ] polymorphism
-- [ ] Youtube videos:
-	- [x] [The One Plan Guaranteed To Land A Software Developer Job](https://www.youtube.com/watch?v=gzljmbiABFU)
-	- [ ] [Backend Web Developer Guide 2020](https://www.youtube.com/watch?v=gqdc4jLjGKQ&t=1s)
-	- [x] [All You Need To Know About Backend Engineering](https://www.youtube.com/watch?v=cLK5vqPv6JQ)
-	- [ ] [Building a Facebook clone app in 10 mins with py4web (from scratch)](https://www.youtube.com/watch?v=hcYUgNWvPtw)
-	- [ ] [Social Network with Python](https://www.youtube.com/results?search_query=social+network+python)
-- [ ] References
-	- [ ] [Teach Yourself Computer Science](https://teachyourselfcs.com/#programming) - 2-3 years
-	- [ ] [r/learn programming (32 years old --> developer)](https://www.reddit.com/r/learnprogramming/comments/34r807/im_32_years_old_and_just_started_my_first/)
-	- [ ] [How to go from beginner -> intermediate. Don't repeat my mistakes](https://www.reddit.com/r/learnjavascript/comments/gne863/how_to_go_from_beginner_intermediate_dont_repeat/)
-- [x]  Resume
-- [x]  Cover letters
-- [x]  Markup guidelines for github + jupyter for asthetics
-- [ ]  Test Automation/BDD tools
-- [ ] Cucumber
-- [ ] SpecFlow
-- [ ] Selenium
 
-CI Tools
-- [ ] Jenkins
-- [ ] TeamCity
-
-Virtualization Technologies
-- [ ] Docker
-
-Languages
-- [ ] Java
-- [ ] Scala
-- [ ] Go
-- [ ] PhP
-
-API Testing
-REST API
-AWS
-PHP monolith on bare metal to running [microservices on Kubernetes](https://architecht.io/box-co-founder-on-moving-to-microservices-and-the-promise-of-kubernetes-a49f01b1c0c0) 
-[Box.com Kubernetes case study](https://kubernetes.io/case-studies/box/)
-Computer Science Fundamentals
-
-related systems software projects is big plus e.g: Distributed systems, Operating systems, Linux Kernel, Database internals, Hypervisors, Containers, Compiler Optimization, etc.
-
-- [ ] Terms to know:
-	- [ ] Open Container Initiative - 
-	- [ ] SDLC (software development life cycle)
-	- [ ] distributed systems, concurrency control, data replication, file systems, or SQL processing (CockroachDB job description)
-	- [ ] Data pipelines (Apache Spark and Kafka )
-
-contribute to open source
-Practical programming knowledge and experience with development for browser (JavaScript, jQuery, Angular, or Vue), server (PHP, ASP, Python, or Node), and database (SQL, SQLite, or MongoDB).
-
-### Projects
-- [ ]  Archaeopteryx - dance AI software but for a different genre?
-	- [ ]  using cakewalk's software to alter music?
-	- [ ]  software that uses midi files as input and outputs an altered file?
-- [ ]  Mix music genres together to generate a song?
-- [ ]  Turns a picture into a paint by numbers, colored pencils, or just for sketching
-- [ ]  Algorithms:
-	- [ ]  recommend books you normally don't read. Will then provide a sample. History + politics = science fiction?
-- [ ]  Carbon footprint comparison: shipping a garment vs. buying a new one from a store. How many times can it be shipped for it not be valid?
-- [ ]  grant finder for research universities? How much time can it save them? Fill out a majority of the forms as well?
-- [ ]  ML to delete duplicates on Google Photos
-- [ ]  local election quiz
-- [ ]  book recommendation
-	- [ ]  Source: [Recommender Systems: From Filter Bubble to SerendipityTags](Recommender Systems: From Filter Bubble to Serendipity) Need to read this to understand how to implement Dewey decimal
-	- [ ]  Good reads has an API
+#### References
+- [ ] [Teach Yourself Computer Science](https://teachyourselfcs.com/#programming) - 2-3 years
+- [ ] [r/learn programming (32 years old --> developer)](https://www.reddit.com/r/learnprogramming/comments/34r807/im_32_years_old_and_just_started_my_first/)
+- [ ] [How to go from beginner -> intermediate. Don't repeat my mistakes](https://www.reddit.com/r/learnjavascript/comments/gne863/how_to_go_from_beginner_intermediate_dont_repeat/)
 
