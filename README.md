@@ -1,32 +1,39 @@
-### Open University
-- [ ] move nested books from `/category` to `/category?expand=book`
-- [ ] remove nested books from `/category` entirely
-- [ ] how to batch upload on POST
+## February
+### Book recommendation system
+- [ ] Django tutorials - Corey Shafer
+	- [ ] search bar to look through Classify API book
+	- [ ] database to store books for bookshelf
+	- [ ] registration
+	- [ ] login
 
-### Web development - general
-- [ ] web development crash course
-	- [ ] go through the odin project fundamentals
-	- [ ] focus on: backend 
-	- [ ] how does front + back end combine
-- [ ] update resume with FreeOpenUniversity work
-- [ ] Go through 2019 curriculum and condense to figure out what worked and what didn't
-- [ ] why doesn't from test import testEqual work? (Runestone book uses this)
-- [x] rewatch "The Come Up's" youtube video on getting software engineering job
+### CIS Collegiate Independent Study Website
+- [ ] create search method
+	- [ ] run python script from Spring using search method
+	- [ ] have it cache the results
 
 ### Data Structures
-- [x] Chapter 5
-- [ ] Chapter 6
-- [ ] interview cake - readings for overall concepts
-- [ ] algo expert
+- [ ] solve 40 questions this month
 
 # Done
-  ## December
-  ### CIS website
+## January
+### Open University
+- move nested books from `/category` to `/category?expand=book`
+	- remove nested books from `/category` entirely
+	- `bookcategory/4,5,6` to see all books within these categories
+- how to batch upload books for POST method
+- create a bookcategory_id to generate unique ids
+- update database schema to show how backend works
+### Data Structures
+- Chapter 5 - Runestone Book
+- algo expert - 20 questions completed
+ 
+## December
+### CIS website
 - set up mySQL locally
-	- upload script and create a username to access data
+- upload script and create a username to access data
 - create Subcategory table
 - set up Postman
-	- add data to books table
+- add data to books table
 - test out Bing's code
 - figure out contribution in github (git theory)
 - create User table + all it's properties
@@ -53,7 +60,7 @@
 ## October
 - **Volunteer Project**
 	- python data extraction
-	- java uploader
+	- [[Java]] uploader
 		- Maven
 		- Spring
 		- Angular (run)
