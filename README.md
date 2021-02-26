@@ -1,20 +1,15 @@
+# Done
 ## February
 ### Book recommendation system
-- [ ] Django tutorials - Corey Shafer
-	- [ ] search bar to look through Classify API book
-	- [ ] database to store books for bookshelf
-	- [ ] registration
-	- [ ] login
+- Django tutorials - Corey Shafer
+- set up Django Backend for [[Book recommendation system]]
 
 ### CIS Collegiate Independent Study Website
-- [ ] create search method
-	- [ ] run python script from Spring using search method
-	- [ ] have it cache the results
+- Spring -> Django Migration
+- run python script from Spring
+	- test case `hello.py` file
+	- return `log.txt` which is the output from `ProcessBuilder` java class
 
-### Data Structures
-- [ ] solve 40 questions this month
-
-# Done
 ## January
 ### Open University
 - move nested books from `/category` to `/category?expand=book`
@@ -336,7 +331,24 @@
 
 # Future
 
+#### Web development - general
+- [ ] download gitlens
+- [ ] JPA + [[Java]] annotations
+- [ ] web development crash course
+	- [ ] go through the odin project fundamentals
+	- [ ] focus on: backend 
+	- [ ] how does front + back end combine
 #### Thredup project
+- [ ] convert materials string --> dictionary
+- [ ] sort items from warmest to least warmest
+- [ ] scrape shemona's coat
+- [ ] use cloud (ex: AWS) for database
+- [ ] connect a database (mongoDB)?
+- [ ] redo projects kanban board - github
+- [ ] difference between thredup_fullscrape.py and database_scrape.py
+- [ ] how to pick inputs? sys.argvs (flags)?
+	- [ ] worst fabrics (filter 1)
+	- [ ] second worst fabrics (filter 2)
 - [ ] reformat code
 - [ ] redo projects kanban board - github
 - [ ] import os to save file to user's local drive
@@ -347,11 +359,9 @@
 - [ ]  node.js
 	- [ ] use cloud database for data (ex: AWS)
 	- [ ] authentication service
-	- [ ] [Introducing TensorFlow Recommenders](https://blog.tensorflow.org/2020/09/introducing-tensorflow-recommenders.html?m=1)
 	- [ ] argparse csv files/text files for filtering out "bad fabrics"
 	- [ ] use stdin and sdout for initial input values
 	- [ ] parser.error (Tiny Python Projects: 9.2)
-	- [ ] Flask to create a clickable image gallery
 	- [ ] create tests
 	- [ ] logs
 	- [ ] switch from bs4 to scrappy
