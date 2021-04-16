@@ -1,4 +1,30 @@
+# Plan
+## April
+### [Book recommendation system](https://github.com/tas09009/recommend)
+- implement [Classify API](http://classify.oclc.org/classify2/api_docs/index.html)
+
+### Data Structures
+- Drill through all the easy problems + start medium level ones
+
+### Web Development theory
+- The Odin Project + Mozilla documentation on web development fundamentals + server-side in depth
+
+
 # Done
+## March
+### [Book recommendation system](https://github.com/tas09009/recommend)
+- set up Django Backend
+- implemented an external API to see if backend setup will work with the [Classify API](http://classify.oclc.org/classify2/api_docs/index.html)
+
+### Data Structures
+- Practice problems on AlgoExpert
+
+### [Breads](https://github.com/tas09009/breads-server)
+- set up local development
+- solved [CORS issue](https://github.com/zero-to-mastery/breads-server/issues/29)
+- set up basic pagination (featured is not being implemented in the end) 
+- learn JavaScript through the Odin Project to be able to contribute to this project
+
 ## February
 ### Book recommendation system
 - Django tutorials - Corey Shafer
@@ -327,47 +353,3 @@
 - Data 36 - SQL practice
 - Codewars - python + SQL practice
 - SQL - interview questions
-
-
-# Future
-
-#### Web development - general
-- [ ] download gitlens
-- [ ] JPA + [[Java]] annotations
-- [ ] web development crash course
-	- [ ] go through the odin project fundamentals
-	- [ ] focus on: backend 
-	- [ ] how does front + back end combine
-#### Thredup project
-- [ ] convert materials string --> dictionary
-- [ ] sort items from warmest to least warmest
-- [ ] scrape shemona's coat
-- [ ] use cloud (ex: AWS) for database
-- [ ] connect a database (mongoDB)?
-- [ ] redo projects kanban board - github
-- [ ] difference between thredup_fullscrape.py and database_scrape.py
-- [ ] how to pick inputs? sys.argvs (flags)?
-	- [ ] worst fabrics (filter 1)
-	- [ ] second worst fabrics (filter 2)
-- [ ] reformat code
-- [ ] redo projects kanban board - github
-- [ ] import os to save file to user's local drive
-- [ ] pip install
-- [ ] sys.argvs (flags)?
-	- [ ] worst fabrics (filter 1)
-	- [ ] second worst fabrics (filter 2)
-- [ ]  node.js
-	- [ ] use cloud database for data (ex: AWS)
-	- [ ] authentication service
-	- [ ] argparse csv files/text files for filtering out "bad fabrics"
-	- [ ] use stdin and sdout for initial input values
-	- [ ] parser.error (Tiny Python Projects: 9.2)
-	- [ ] create tests
-	- [ ] logs
-	- [ ] switch from bs4 to scrappy
-
-#### References
-- [ ] [Teach Yourself Computer Science](https://teachyourselfcs.com/#programming) - 2-3 years
-- [ ] [r/learn programming (32 years old --> developer)](https://www.reddit.com/r/learnprogramming/comments/34r807/im_32_years_old_and_just_started_my_first/)
-- [ ] [How to go from beginner -> intermediate. Don't repeat my mistakes](https://www.reddit.com/r/learnjavascript/comments/gne863/how_to_go_from_beginner_intermediate_dont_repeat/)
-
